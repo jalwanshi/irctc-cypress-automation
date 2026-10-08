@@ -1,25 +1,18 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "14206",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "09/10/2026",
+  "SOURCE_STATION": "DLI",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "AYC",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "6388353247-3@ybl",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Ankit Nishad",
+      "AGE": 24,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
